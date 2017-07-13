@@ -103,11 +103,9 @@ header .profile-image:hover {
   width: 150px;
   height: 150px;
   border-radius: 10%;
-  /*border: 5px solid black;*/
+ border: 5px solid black;
 }
 
-.card:nth-child(3n) {
-	display: clear;
 } 
 .card:hover {
   border-color: teal;
